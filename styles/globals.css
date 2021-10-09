@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.MainPage{
+  height: 100vh;
+  width: 100vw;
+  background: rgb(255,255,255);
+  background: linear-gradient(360deg, rgba(255,255,255,1) 0%, rgba(180,208,254,1) 20%);
+  display: grid;
+}
+.title{
+  color:#FFC420;
+}
+.subtitle{
+  color:#6887BB;
+}
