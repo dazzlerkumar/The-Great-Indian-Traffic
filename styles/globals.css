@@ -16,8 +16,9 @@ a {
 }
 
 .MainPage{
-  height: 100vh;
-  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
   background: rgb(255,255,255);
   background: linear-gradient(360deg, rgba(255,255,255,1) 0%, rgba(180,208,254,1) 20%);
   display: grid;
@@ -27,4 +28,7 @@ a {
 }
 .subtitle{
   color:#6887BB;
+}
+.card{
+  border-radius: 25px;
 }

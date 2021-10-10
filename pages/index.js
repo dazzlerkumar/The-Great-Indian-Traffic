@@ -1,14 +1,15 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 //COMPONENTS
 import Main from "../components/Main"
+import Brief from "../components/Brief"
+import Card from "../components/Card"
 
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
         <title>The Great Indian Traffic</title>
         <meta name="By Dazzler Kumar" content="Indian Traffice Guide" />
@@ -16,8 +17,9 @@ export default function Home() {
       </Head>
 
       
-        <Main/>
-      
+      <Main/>
+      <Brief/>
+      <Card/>
       {/*
       <footer className={styles.footer}>
         <a
