@@ -16,7 +16,7 @@ export default function Brief() {
                     <li>India, ranks 1st in the number of road accident deaths across the 199 countries reported in the
 World Road Statistics, 2018</li>
                     You can read this PDF by Govt. of India. 
-                        <a href="https://morth.nic.in/sites/default/files/RA_Uploading.pdf" target="_blank"> Click Here</a>
+                        <a href="https://morth.nic.in/sites/default/files/RA_Uploading.pdf" target="_blank" rel="noreferrer"> Click Here</a>
                 </ul>
             </div>
         </div>
