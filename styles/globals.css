@@ -1,5 +1,6 @@
 html,
 body {
+  background-color: #EAF0FB;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
@@ -28,7 +29,4 @@ a {
 }
 .subtitle{
   color:#6887BB;
-}
-.card{
-  border-radius: 25px;
 }

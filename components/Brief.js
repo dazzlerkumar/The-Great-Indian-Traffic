@@ -1,7 +1,7 @@
 import Link from "next/link"
 export default function Brief() {
     return (
-        <div className="grid grid-cols-1 place-items-center h-full h-screen">
+        <div className="grid grid-cols-1 place-items-center h-full h-screen p-2">
             <p className="text-subtitle text-3xl font-semibold my-5">Purpose of the Website</p>
             <div className="text-para my-0 mx-auto max-w-screen-md">
             <p className="text-lg">The purpose of this website is to aware the new driver/rides about
