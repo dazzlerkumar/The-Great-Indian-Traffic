@@ -8,7 +8,7 @@ export default function Brief() {
                 the condition of Indian roads such as how people actually ride/drive,
                 how to avoid rage, how to avoid accidents. 
             </p>
-            <p className="font-medium my-5">It might seems there is no need for such website but I can&#39t deny these
+            <p className="font-medium my-5">It might seems there is no need for such website but I can&apos;t deny these
                 facts, 
                
             </p>
