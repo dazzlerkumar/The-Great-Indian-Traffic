@@ -14,8 +14,8 @@
   <a href="https://github.com/prettier/prettier">
   <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" />
   </a>
-  <a href="https://twitter.com/intent/tweet?text=Check+out+this+cool+website&url=https%3A%2F%2Ftgit.vercel.app%2F" data-text="Check out this cool website">
-  <img alt="MIT LICENSEr" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdazzlerkumar%2FThe-Great-Indian-Traffic%2F" />
+  <a href="https://twitter.com/intent/tweet?text=Check+out+this+cool+website&url=https%3A%2F%2Ftgit.vercel.app%2F" target="_blank"  rel="noopener noreferrer">
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fdazzlerkumar%2FThe-Great-Indian-Traffic%2F" />
   </a>
   <br/>
 </p>
