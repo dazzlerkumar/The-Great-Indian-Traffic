@@ -1,5 +1,5 @@
 <h1 align="center"> The Great Indian Traffic</h1> 
-<h3 align="center"> Indian Traffic Jam is all about filling the gaps.</h3> 
+<h3 align="center"> Indian Traffic Jams are all about filling the gaps.</h3> 
 
 <p align="center">
   <a href="https://nodejs.org/en/blog/release/v12.13.0/">

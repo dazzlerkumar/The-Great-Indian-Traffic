@@ -3,6 +3,8 @@ import Image from "next/image"
 
 import post from "../content/data.json";
 import twitter from "/public/twitter.png"
+import whatsapp from "/public/whatsapp.png"
+
 
 export default function Card() {
     return (
@@ -19,6 +21,9 @@ export default function Card() {
                     <div className=" py-2">
                         <a href="https://twitter.com/intent/tweet?text=Check+out+this+cool+website&url=https%3A%2F%2Ftgit.vercel.app%2F" target="_blank"  rel="noopener noreferrer">
                         <Image src={twitter} alt="twitter" width={32} height={32}/>
+                        </a>
+                        <a href="whatsapp://send?text=Check+out+this+cool+website+https%3A%2F%2Ftgit.vercel.app" target="_blank"  rel="noopener noreferrer">
+                        <Image src={whatsapp} alt="WhatsApp" width={32} height={32}/>
                         </a>
                     </div>
                 </div>
