@@ -1,5 +1,14 @@
-<h1 align="center"> The Great Indian Traffic </h1> 
+
+<h1 align="center"> The Great Indian Traffic</h1> 
+<h3 align="center"> Indian Traffic Jams are all about filling the gaps.</h3> 
+
 <p align="center">
+  <a href="https://nodejs.org/en/blog/release/v12.13.0/">
+  <img alt="NodeJS" src="https://img.shields.io/badge/node-12.14.1-important?style=flat-square" />
+  </a>
+  <a href="https://www.npmjs.com/package/npm/v/6.13.4">
+  <img alt="NPM" src="https://img.shields.io/badge/npm-6.13.7-blueviolet?style=flat-square" />
+  </a>
   <a href="https://reactjs.org/">
   <img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" />
   </a>
@@ -11,6 +20,7 @@
   </a>
   <br/>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87208681/136819176-9c90e12f-2f37-4852-9334-333cc375954a.png" />
@@ -69,5 +79,6 @@ If you have any
 
 
 ## Acknowledgement 👏🏻
-
+- [Social Media Icons](https://iconscout.com/contributors/flat-icons)
 - Clipart by [clipartmax](https://www.clipartmax.com/).
+

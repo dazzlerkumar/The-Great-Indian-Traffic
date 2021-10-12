@@ -13,7 +13,7 @@ export default function Home() {
       <Head>
         <title>The Great Indian Traffic</title>
         <meta name="By Dazzler Kumar" content="Indian Traffice Guide" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/tgit.png" />
       </Head>
 
       
