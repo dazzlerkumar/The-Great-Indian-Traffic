@@ -1,9 +1,11 @@
 import Link from "next/link"
 export default function Brief() {
     return (
-        <div className="grid grid-cols-1 place-items-center h-full h-screen p-2">
-            <p className="text-subtitle text-3xl font-semibold my-5">Purpose of the Website</p>
-            <div className="text-para my-0 mx-auto max-w-screen-md">
+        <div className="my-10 p-2">
+
+            <div className="mx-auto max-w-screen-md">
+            <p className="mx-auto text-subtitle text-3xl  font-semibold my-5">Purpose of the Website</p>
+            <div className="text-para m-0">
             <p className="text-lg">The purpose of this website is to aware the new driver/rides about
                 the condition of Indian roads such as how people actually ride/drive,
                 how to avoid rage, how to avoid accidents. 
@@ -19,6 +21,8 @@ World Road Statistics, 2018</li>
                         <a href="https://morth.nic.in/sites/default/files/RA_Uploading.pdf" target="_blank" rel="noreferrer"> Click Here</a>
                 </ul>
             </div>
+            </div>
+            
         </div>
     )
 }
