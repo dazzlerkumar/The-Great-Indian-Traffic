@@ -14,7 +14,8 @@ module.exports = {
       hararang:'#34A853',
       laalrang:'#EA4335',
       peela:'#f2f2f2',
-      safed:'#fff'
+      safed:'#fff',
+      neela:'#327BF4'
     }
     
   },

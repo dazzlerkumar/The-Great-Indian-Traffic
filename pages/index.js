@@ -6,6 +6,7 @@ import styles from '../styles/Home.module.css'
 import Main from "../components/Main"
 import Brief from "../components/Brief"
 import Card from "../components/Card"
+import Footer from "../components/Footer"
 
 
 export default function Home() {
@@ -22,6 +23,7 @@ export default function Home() {
       <Brief/>
       
       <Card/>
+      <Footer/>
   
       {/*
       <footer className={styles.footer}>
