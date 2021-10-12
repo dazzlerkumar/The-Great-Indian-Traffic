@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
+
 //COMPONENTS
 import Main from "../components/Main"
 import Brief from "../components/Brief"
@@ -19,7 +20,9 @@ export default function Home() {
       
       <Main/>
       <Brief/>
+      
       <Card/>
+  
       {/*
       <footer className={styles.footer}>
         <a

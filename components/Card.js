@@ -1,5 +1,7 @@
 //LIBS
 import Image from "next/image"
+import Zoom from 'react-reveal/Zoom';
+
 
 import post from "../content/data.json";
 import twitter from "/public/twitter.png"
@@ -10,6 +12,7 @@ import fb from "/public/facebook.png"
 export default function Card() {
     return (
         <div className="grid md:container mx-auto justify-center">
+            <Zoom bottom duration={2000}>
             {post.map((x, i) => (
                 <div
                     className="grid grid-row-3 bg-safed max-w-4xl my-4 mx-2 rounded-md shadow-2xl p-5 divide-y-2 divide-hararang hover:border-subtitle"
@@ -32,6 +35,7 @@ export default function Card() {
                     </div>
                 </div>
             ))}
+            </Zoom>
         </div>
     );
 }
