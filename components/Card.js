@@ -7,6 +7,7 @@ import post from "../content/data.json";
 import twitter from "/public/twitter.png"
 import whatsapp from "/public/whatsapp.png"
 import fb from "/public/facebook.png"
+import github from "/public/github.png"
 
 
 export default function Card() {
@@ -31,6 +32,9 @@ export default function Card() {
                         </a>
                         <a className="mx-1" href="https://www.facebook.com/dialog/feed?app_id=935877643951242&display=popup&link=https%3A%2F%2Ftgit.vercel.app%2F" target="_blank"  rel="noopener noreferrer">
                         <Image src={fb} alt="Facebook" width={32} height={32}/>
+                        </a>
+                        <a className="mx-1" href="https://github.com/dazzlerkumar/The-Great-Indian-Traffic" target="_blank"  rel="noopener noreferrer">
+                        <Image src={github} alt="Github" width={48} height={48}/>
                         </a>
                     </div>
                 </div>
